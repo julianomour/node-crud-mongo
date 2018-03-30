@@ -10,6 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/julianomour/node-crud-mongo.git"
   },
+  "dependencies": {
+    "mongoose": "~5.0.12",
+    "express": "~4.16.3",
+    "body-parser": "~1.18.2",
+    "request": "~2.85.0",
+    "nodemon-browsersync-webpack-plugin": "~1.0.1"
+  },
   "keywords": [
     "nodejs",
     "mongodb",
