@@ -1,0 +1,25 @@
+{
+  "name": "crud-nodejs-mongodb",
+  "version": "1.0.0",
+  "description": "Crud com NodeJs + Express + MongoDb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianomour/node-crud-mongo.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "restfull",
+    "expressjs"
+  ],
+  "author": "Juliano Moura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julianomour/node-crud-mongo/issues"
+  },
+  "homepage": "https://github.com/julianomour/node-crud-mongo#readme"
+}
