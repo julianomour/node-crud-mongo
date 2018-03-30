@@ -4,7 +4,7 @@
   "description": "Crud com NodeJs + Express + MongoDb",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon"
   },
   "repository": {
     "type": "git",
@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/julianomour/node-crud-mongo/issues"
   },
-  "homepage": "https://github.com/julianomour/node-crud-mongo#readme"
+  "homepage": "https://github.com/julianomour/node-crud-mongo#readme",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
 }
