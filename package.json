@@ -30,6 +30,6 @@
   },
   "homepage": "https://github.com/julianomour/node-crud-mongo#readme",
   "devDependencies": {
-    "nodemon": "^1.12.1"
+    "nodemon": "~1.17.2"
   }
 }
