@@ -8,7 +8,7 @@
  var app = express();
  var bodyParser = require('body-parser');
  var mongoose =  require('mongoose');
- var Produto = require('./app/models/produtos');
+ var Produto = require('./app/models/produto');
 //  URI do MLab
  mongoose.connect('mongodb://juliano:crudapi@ds029496.mlab.com:29496/mongo-crud')
 
